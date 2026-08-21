@@ -54,7 +54,7 @@ pip install numpy matplotlib opencv-python scipy
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/operasi-dasar-sinyal-citra.git
+https://github.com/Sujwatok1/-Tugas-Eksperimen-Operasi-Dasar-pada-Sinyal.git
 ```
 
 ### 2. Masuk ke Folder Project
